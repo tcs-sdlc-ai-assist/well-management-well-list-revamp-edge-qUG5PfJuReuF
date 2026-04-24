@@ -1,5 +1,3 @@
-src/features/wellList/components/ActionCell.jsx
-```jsx
 import PropTypes from 'prop-types';
 
 function DetailsIcon({ className }) {
@@ -137,4 +135,3 @@ ActionCell.defaultProps = {
 };
 
 export default ActionCell;
-```
