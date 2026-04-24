@@ -1,5 +1,4 @@
-src/features/wellList/WellListPage.jsx
-```jsx
+
 import { useWells } from './hooks/useWells.js';
 import { WellTable } from './components/WellTable.jsx';
 import { Pagination } from './components/Pagination.jsx';
@@ -137,4 +136,3 @@ export function WellListPage() {
 }
 
 export default WellListPage;
-```
